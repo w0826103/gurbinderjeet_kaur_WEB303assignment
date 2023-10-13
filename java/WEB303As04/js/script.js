@@ -1,7 +1,4 @@
-/*
-    Assignment #4
-    {Vrajesh Patel}
-*/
+
 
 $(function () {
     // your code here
